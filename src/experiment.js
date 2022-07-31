@@ -9,7 +9,7 @@
  * @imageDir images
  * @miscDir html
  */
-
+console.log("hi")
 // You can import stylesheets (.scss or .css).
 import "../styles/main.scss";
 
